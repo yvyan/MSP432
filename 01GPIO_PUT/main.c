@@ -1,11 +1,11 @@
 //*****************************************************************************
-//
-// MSP432 main.c template - Empty main
-//
+//  DEMO:   GPIO_OUTPUT
+//  MCU:    MSP432
+//	NUMBER: 01
 //****************************************************************************
 
 #include "msp.h"
-#include <ti/devices/msp432p4xx/driverlib/driverlib.h>
+#include <DriverLib/driverlib.h>
 
 void main(void)
 {
