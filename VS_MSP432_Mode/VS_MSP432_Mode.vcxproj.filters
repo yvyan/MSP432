@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="DriverLib">
+      <UniqueIdentifier>{f6d4d2a7-09f7-4698-918a-0da4b7d335b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inc">
+      <UniqueIdentifier>{789334d4-8893-4451-8e47-9a1fa423fbd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="USER">
+      <UniqueIdentifier>{37e343e1-0159-4cad-b288-d759063606a5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DriverLib\adc14.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\aes256.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\comp_e.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\cpu.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\crc32.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\cs.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\debug.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\dma.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\driverlib.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\eusci.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\flash.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\flash_a.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\fpu.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\gpio.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\i2c.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\interrupt.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\lcd_f.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\mpu.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\pcm.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\pmap.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\pss.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\ref_a.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\reset.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\rom.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\rom_map.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\rtc_c.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\spi.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\sysctl.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\sysctl_a.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\systick.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\timer_a.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\timer32.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\uart.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DriverLib\wdt_a.h">
+      <Filter>DriverLib</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp_compatibility.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432p4xx.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432p401m.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432p401m_classic.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432p401r.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432p401r_classic.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432p401v.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432p401y.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432p411v.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432p411y.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432p4011.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\msp432p4111.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\system_msp432p401m.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\system_msp432p401r.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\system_msp432p401v.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\system_msp432p401y.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\system_msp432p411v.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\system_msp432p411y.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\system_msp432p4011.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\system_msp432p4111.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
