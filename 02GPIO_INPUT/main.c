@@ -1,11 +1,11 @@
 //
 //*****************************************************************************
-//  DEMO:     Engineering Template
+//  DEMO:     GPIO_INPUT
 //  MCU:      MSP432
-//	NUMBER:   01
-//  describe: This is a engineering template with the dirverlib of MSP432.
+//	NUMBER:   02
+//  describe: 使用GPIO进行输入和输出，并使用定时器进行延时
 //*****************************************************************************
-//
+//https://blog.csdn.net/weixin_44048162/article/details/90646189
 
 #include "msp.h"
 #include <DriverLib/driverlib.h>
