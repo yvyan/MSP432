@@ -10,3 +10,5 @@
 >[02、相关硬件及相关书籍汇总](https://blog.csdn.net/weixin_44048162/article/details/90730088)
 
 >[03、使用VS进行代码库函数编写，应用提示功能降低开发难度](https://blog.csdn.net/weixin_44048162/article/details/90730957)
+
+>[04、GPIO输入输出省电模式及中断的应用](https://blog.csdn.net/weixin_44048162/article/details/91451072)
